@@ -1,0 +1,1 @@
+käynnistä projekti lukemalla README.md

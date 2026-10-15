@@ -2,3 +2,4 @@ Git-harjoituksen tehtävälista
 1. Luo repositorio
 2. Harjoittele committeja
 3. Harjoittele haaroja
+4. Ratkaise merge-konflikti

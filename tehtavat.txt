@@ -1,1 +1,3 @@
 Git-harjoituksen tehtävälista
+1. Luo repositorio
+2. Harjoittele committeja

@@ -8,7 +8,7 @@ Projekti sisältää Gitin jatkotoimintojen harjoitukset.
 
 
 
-äytetyt komennot
+käytetyt komennot
 
 
 
